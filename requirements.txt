@@ -14,3 +14,6 @@ typing_extensions==4.16.0
 uvicorn==0.54.0
 
 db @ git+https://github.com/FCPX-Studio/db.git@v0.7.1
+
+# Shared logger (console + MQTT), pinned by tag
+logger @ git+https://github.com/FCPX-Studio/logger.git@v0.2.2
