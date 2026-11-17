@@ -13,4 +13,4 @@ typing-inspection==0.4.5
 typing_extensions==4.16.0
 uvicorn==0.54.0
 
-db @ git+https://github.com/FCPX-Studio/db.git@v0.7.0
+db @ git+https://github.com/FCPX-Studio/db.git@v0.7.1
